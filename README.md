@@ -52,7 +52,7 @@ If You succeed... maybe Your people will find a new home one day.
   
 In 2014, I have decided to focus on programming. Until then I've done only small personal projects and advertisement animations.  
   
-I've been using Flash since I was child, so I have decided to stick with it for my first big project, as I was already familiar with Actionscript (it's third and probably the "first proper" version was new to me back then).  
+I've been using Flash since I was 10 years old, so I have decided to stick with it for my first big project, as I was already familiar with Actionscript (it's third and probably the "first proper" version was new to me back then).  
 Adobe Air as a cross-platform runtime solution only made the decision easier.  
   
 During those years I've treated the game as a part-time job, and so the game went through 3 major rewrites, as I was learning to code better (and wanted to add more features).  
