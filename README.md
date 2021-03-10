@@ -61,7 +61,7 @@ I have been lucky enough to find some testers to give me a very valuable feedbac
   
 The feedback was not entirely negative, so after few months I have rewritten the game on paper and played a paper-version with testers to ensure that the new version fits the new goal: not an experimental strategic-card-game code-learning project, but rather a fast-paced collectible card game with some simplified ideas from the old version.  
   
-A basic prototype in Java, which I've started learning in the meantime, has already been written, to test the game mechanics on screen.  
+A basic prototype in Java, which I've started learning in the meantime, has already been written, to test the new gameplay on screen.  
   
 Currently the Java version (called simply "Farstar 2") awaits a GUI and graphics update/import (game visuals should remain basically the same, although all illustrations will be, in fact, reworked to give the game slightly more "colorful looks"), however there many other features still missing as well (most of the cards included).  
   
