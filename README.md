@@ -50,7 +50,8 @@ If You succeed... maybe Your people will find a new home one day.
   
 ## About Project  
   
-In 2014, I have decided to focus on programming. Until then I've made only small personal projects.  
+In 2014, I have decided to focus on programming. Until then I've done only small personal projects and advertisement animations.  
+  
 I've been using Flash since I was child, so I have decided to stick with it for my first big project, as I was already familiar with Actionscript (it's third and probably the "first proper" version was new to me back then).  
 Adobe Air as a cross-platform runtime solution only made the decision easier.  
   
