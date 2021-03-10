@@ -5,6 +5,6 @@
 This is a FREE game.
 Server Application is not a part of Client's release.
 
->RELEASE DOWNLOAD<
+_RELEASE DOWNLOAD_
 
 Server is currently OFFLINE:red_circle:.
