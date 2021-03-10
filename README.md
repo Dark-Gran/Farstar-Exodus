@@ -59,7 +59,7 @@ Between 2014 and 2019 I've treated the game as a part-time job, and so the game 
 Function-wise I am rather proud of the final version, despite the fact it does contain one or two bugs, however the game mechanics themselves were barely tested. This was made clear to me in mere days after game's release, which was in April 2020.  
 I have been lucky enough to find some testers to give me feedback on the game before I have decided to pull the plug on the server.  
   
-The feedback was not entirely negative, so after few months I have rewritten the game on paper and played a paper-version with testers to ensure the new version fits the new goal: not an experimental strategic-card-game code-learning project, but rather simply a fast-paced collectible card game with some simplified ideas from the old version.  
+The feedback was not entirely negative, so after few months I have rewritten the game on paper and played a paper-version with testers to ensure that the new version fits the new goal: not an experimental strategic-card-game code-learning project, but rather a fast-paced collectible card game with some simplified ideas from the old version.  
 Afterwards I have written a prototype in Java to test the game mechanics on screen.  
   
 Currently the Java version, called simply "Farstar 2", awaits a GUI and graphics update/import (game visuals should remain basically the same, although all illustrations will be, in fact, reworked to give the game slightly more "colorful looks").  
