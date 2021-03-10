@@ -13,9 +13,7 @@ _WINDOWS RELEASE DOWNLOAD_
 Game can be played in offline-mode.  
 (Server State: :red_circle:)  
   
-## Game Description  
-  
-_This section contains information from the original website._  
+## Original Website Teaser-Texts  
   
 ...  
   
