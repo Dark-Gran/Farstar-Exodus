@@ -20,15 +20,15 @@ Multiplayer also available over LAN.
 ...  
   
   
-## About Project  
-  
-...  
-  
-  
 ## Screenshots
   
 ![preview1](screenshots/fs1.png)  
 ![preview2](screenshots/fs2.png)  
 ![preview3](screenshots/fs3.png)  
+  
+  
+## About Project  
+  
+...  
   
   
