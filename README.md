@@ -1,3 +1,3 @@
 # Farstar: Exodus  
   
-  ![alt text](thumb.png)
+  ![alt text](images/fs1.png)
