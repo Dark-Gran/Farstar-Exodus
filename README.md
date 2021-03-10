@@ -31,6 +31,15 @@ Influenced by RTS PC games and table-top card games, FARSTAR: Exodus is an onlin
 After many strategic decisions, separate tactical battle comes: Pick targets carefully, as attacking shields of same colour reduces damage greatly - that is, if Your ships are even fast enough to get to attack in the first place.  
 If You succeed... maybe Your people will find a new home one day.  
   
+• Become a Commander of Your own star fleet as the game eases You into its rules in a storytelling tutorial.
+
+• Collect over 270 cards from 5 different factions and build the ultimate deck: Will You be the predator, or defend humanity against alien threat?
+
+• Compete against AI or other players online: Raise Your Reputation in a Quick Match, or invite Friends to a duel!
+
+• Trade Cards with other players in real-time: Just like You would in a physical card-room!
+
+• Play for Free, or support the game to speed up Your progress!
   
 ## Screenshots
   
