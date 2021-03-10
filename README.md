@@ -3,13 +3,13 @@
   ![preview1](images/fs1.png)  
   
 This is a FREE game.  
-All prerequisites (Adobe Air) are part of the installation package.
+All prerequisites (Adobe Air) are part of the installation package.  
 Server Application is not a part of Client's release.  
   
 _RELEASE DOWNLOAD_  
   
 Game can be played in offline-mode.  
-(server is currently :red_circle:)  
+(server is: :red_circle:)  
   
 ## About Project  
   
