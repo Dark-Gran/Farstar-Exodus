@@ -11,6 +11,7 @@ Server Application is not a part of Client's release.
 _WINDOWS RELEASE DOWNLOAD_  
   
 Game can be played in offline-mode.  
+Multiplayer also available over LAN.  
 (Server State: :red_circle:)  
   
   
