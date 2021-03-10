@@ -1,6 +1,6 @@
 # Farstar: Exodus  
   
-  ![preview1](screenshots/fs_mid.png)  
+![main_preview](screenshots/fs_mid.png)  
   
 This is a FREE game.  
   
@@ -13,11 +13,21 @@ _WINDOWS RELEASE DOWNLOAD_
 Game can be played in offline-mode.  
 (Server State: :red_circle:)  
   
+  
 ## Teaser-Texts (website archive)  
   
 ...  
   
+  
 ## About Project  
   
 ...  
+  
+  
+## Screenshots
+  
+![preview1](screenshots/fs1.png)  
+![preview2](screenshots/fs2.png)  
+![preview3](screenshots/fs3.png)  
+  
   
