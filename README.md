@@ -15,6 +15,8 @@ Game can be played in offline-mode.
   
 ## Game Description  
   
+_This section contains information from the original website._  
+  
 ...  
   
 ## About Project  
