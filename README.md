@@ -7,4 +7,5 @@ Server Application is not a part of Client's release.
 
 _RELEASE DOWNLOAD_
 
-Server is currently OFFLINE:red_circle:.
+Game can be played in offline-mode.
+(server is currently :red_circle:)
