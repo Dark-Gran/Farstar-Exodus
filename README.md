@@ -1,6 +1,6 @@
 # Farstar: Exodus  
   
-  ![preview1](images/fs1.png)  
+  ![preview1](screenshots/fs_mid.png)  
   
 This is a FREE game.  
   
