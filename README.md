@@ -1,6 +1,6 @@
 # Farstar: Exodus  
   
-![main_preview](screenshots/fs_mid.png)  
+![main_preview](screenshots/fs1.png)  
   
 This is a FREE game.  
   
@@ -43,7 +43,6 @@ If You succeed... maybe Your people will find a new home one day.
   
 ## Screenshots
   
-![preview1](screenshots/fs1.png)  
 ![preview2](screenshots/fs2.png)  
 ![preview3](screenshots/fs3.png)  
   
