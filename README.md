@@ -13,7 +13,7 @@ _WINDOWS RELEASE DOWNLOAD_
 Game can be played in offline-mode.  
 (Server State: :red_circle:)  
   
-## Original Website Teaser-Texts  
+## Teaser-Texts (website archive)  
   
 ...  
   
