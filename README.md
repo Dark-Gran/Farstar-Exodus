@@ -9,7 +9,7 @@ Server Application is not a part of Client's release.
 _RELEASE DOWNLOAD_  
   
 Game can be played in offline-mode.  
-(server is: :red_circle:)  
+(server-status: :red_circle:)  
   
 ## About Project  
   
