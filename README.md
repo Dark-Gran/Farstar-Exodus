@@ -5,7 +5,7 @@
 This is a FREE game.  
   
 Installation package contains all the prerequisites.  
-The package has no code-signing certificate, therefore OS will most probably advise not to install.
+The package has no code-signing certificate, therefore OS will most probably advise not to install.  
 System must support Adobe Air ([see minimal requirements](https://uwm.edu/software/adobe-air-and-runtime-distribution/)) for the game to run.  
 Server Application is not a part of Client's release.  
   
