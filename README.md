@@ -3,6 +3,7 @@
   ![preview1](images/fs1.png)  
   
 This is a FREE game.  
+All prerequisites (Adobe Air) are part of the installation package.
 Server Application is not a part of Client's release.  
   
 _RELEASE DOWNLOAD_  
