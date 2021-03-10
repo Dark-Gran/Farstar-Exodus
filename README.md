@@ -11,11 +11,11 @@ _RELEASE DOWNLOAD_
 Game can be played in offline-mode.  
 (Server State: :red_circle:)  
   
-## About Project  
+## Game Description  
   
 ...  
   
-## Game Description  
+## About Project  
   
 ...  
   
