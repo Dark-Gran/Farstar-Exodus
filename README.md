@@ -13,7 +13,7 @@ Server Application is not a part of Client's release.
   
 Game can be played in offline-mode.  
 Multiplayer also available over LAN.  
-Online-Play requires user registration (in-client).
+Online-Play requires user registration (in-client).  
 (Server State: :red_circle:)  
   
   
