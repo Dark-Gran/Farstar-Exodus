@@ -65,7 +65,7 @@ The feedback was not entirely negative, so after few months I have rewritten the
   
 A basic prototype in Java, which I've started learning in the meantime, has already been written, to test the new gameplay on screen.  
   
-Currently the Java version (called simply "Farstar 2") awaits a GUI and graphics update/import (game visuals should remain basically the same, although all illustrations will be, in fact, reworked to give the game slightly "brighter and more colorful looks"), however many other features are still missing as well (most of the cards included).  
+Currently the Java version (called simply "Farstar 2") awaits a GUI and graphics update/import (game visuals should remain basically the same, although all illustrations will be, in fact, reworked to give the game slightly "brighter and more colorful looks"), however many other features are still missing as well (that includes most of the cards).  
   
 _A link to the new version's git will be provided soon._  
   
