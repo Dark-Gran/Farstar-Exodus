@@ -19,7 +19,7 @@ Online-Play requires user registration (in-client).
   
 ## Teaser-Texts (website archive)  
   
-(see [original website](https://github.com/Dark-Gran/Farstar-Exodus-Website))  
+([see original website](https://github.com/Dark-Gran/Farstar-Exodus-Website))  
   
 _Even with stars in our hands, the struggle never ends._  
   
@@ -69,6 +69,6 @@ A basic prototype in Java, which I've started learning in the meantime, has alre
   
 Currently the Java version (called simply "Farstar 2") awaits a GUI and graphics update/import (game visuals should remain basically the same, although all illustrations will be, in fact, reworked to give the game slightly "brighter and more colorful looks"), however many other features are still missing as well (that includes most of the cards).  
   
-For more information, see [Farstar 2](https://github.com/Dark-Gran/Farstar-2).
+[For more information, see Farstar 2](https://github.com/Dark-Gran/Farstar-2).
   
   
