@@ -19,6 +19,8 @@ Online-Play requires user registration (in-client).
   
 ## Teaser-Texts (website archive)  
   
+(see [original website](https://github.com/Dark-Gran/Farstar-Exodus-Website))
+  
 _Even with stars in our hands, the struggle never ends._  
   
 _Mankind has disbanded into numerous nations, travelling the galaxy inside massive motherstations in a desperate effort to keep the population and its civilization alive, willing to sacrifice anything to earn the required energy and resources from various planets and stars._  
