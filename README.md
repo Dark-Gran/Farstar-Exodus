@@ -19,7 +19,7 @@ Online-Play requires user registration (in-client).
   
 ## Teaser-Texts (website archive)  
   
-(see [original website](https://github.com/Dark-Gran/Farstar-Exodus-Website))
+(see [original website](https://github.com/Dark-Gran/Farstar-Exodus-Website))  
   
 _Even with stars in our hands, the struggle never ends._  
   
