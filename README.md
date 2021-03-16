@@ -61,7 +61,7 @@ Between 2014 and 2019 I had treated the game as a part-time job, and so the game
 Function-wise I am rather proud of the final version, despite the fact it does contain one or two bugs, however the game mechanics themselves were barely tested. This was made clear to me in mere days after the game's release, which was in April 2020.  
 I have been lucky enough to find some testers to give me a very valuable feedback on the game, after which I have decided to pull the plug on the server.  
   
-## What The Future Holds
+## What The Future Holds  
   
 The feedback was not entirely negative, so after few months I have rewritten the game on paper and played a paper-version with testers to ensure that the new version fits the new goal: not an experimental strategic-card-game code-learning project, but rather a fast-paced collectible card game with some simplified ideas from the old version.  
   
