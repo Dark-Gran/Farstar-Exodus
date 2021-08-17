@@ -3,7 +3,10 @@
 ![main_preview](screenshots/fs1.png)  
   
 This is a FREE game.  
+
+[And an old one - check out the new game instead!](https://github.com/Dark-Gran/Farstar-2)
   
+_But if you insist..._  
 Installation package contains all the prerequisites.  
 The package has no code-signing certificate, therefore OS will most probably advise not to install.  
 System must support Adobe Air ([see minimal requirements](https://uwm.edu/software/adobe-air-and-runtime-distribution/)) for the game to run.  
@@ -53,7 +56,7 @@ If You succeed... maybe Your people will find a new home one day.
   
 ## About Project  
   
-In 2014, I have decided to focus on programming. Until then I've done only small personal projects and advertisement animations.  
+In 2014, I have decided to advance my programming skills (I actually graduated in that in 2009). Until then I've done only small personal projects and advertisement animations.  
   
 I had been using Flash since I was 10 years old, so I had decided to stick with it for my first big coding project, as I was already familiar with Actionscript. Adobe Air as a cross-platform runtime solution only made the decision easier.  
   
