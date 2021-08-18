@@ -19,6 +19,7 @@ Multiplayer also available over LAN.
 Online-Play requires user registration (in-client).  
 (Server State: :red_circle:)  
   
+If you'd like to give us feedback or see our other projects, [join us on Discord!](https://discord.com/invite/N4JxKsX3Q5)[![discord_icon](discord64flip.png)](https://discord.com/invite/N4JxKsX3Q5) 
   
 ## Teaser-Texts (website archive)  
   
